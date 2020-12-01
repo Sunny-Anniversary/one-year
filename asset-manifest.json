@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/one-year/static/css/main.0f4f0e31.chunk.css",
+    "main.js": "/one-year/static/js/main.4a54b0ee.chunk.js",
+    "main.js.map": "/one-year/static/js/main.4a54b0ee.chunk.js.map",
+    "runtime-main.js": "/one-year/static/js/runtime-main.3c311d9c.js",
+    "runtime-main.js.map": "/one-year/static/js/runtime-main.3c311d9c.js.map",
+    "static/js/2.ee327886.chunk.js": "/one-year/static/js/2.ee327886.chunk.js",
+    "static/js/2.ee327886.chunk.js.map": "/one-year/static/js/2.ee327886.chunk.js.map",
+    "static/js/3.25de2de6.chunk.js": "/one-year/static/js/3.25de2de6.chunk.js",
+    "static/js/3.25de2de6.chunk.js.map": "/one-year/static/js/3.25de2de6.chunk.js.map",
+    "index.html": "/one-year/index.html",
+    "static/css/main.0f4f0e31.chunk.css.map": "/one-year/static/css/main.0f4f0e31.chunk.css.map",
+    "static/js/2.ee327886.chunk.js.LICENSE.txt": "/one-year/static/js/2.ee327886.chunk.js.LICENSE.txt",
+    "static/media/Banff Mountain.86d413fd.JPG": "/one-year/static/media/Banff Mountain.86d413fd.JPG",
+    "static/media/Christmas Last Year.90ecf943.JPG": "/one-year/static/media/Christmas Last Year.90ecf943.JPG",
+    "static/media/Edmonton Coronavirus.21569f3b.JPG": "/one-year/static/media/Edmonton Coronavirus.21569f3b.JPG",
+    "static/media/Fairy Back from Sooke.97d9891b.JPG": "/one-year/static/media/Fairy Back from Sooke.97d9891b.JPG",
+    "static/media/Flirting.d5dbf50b.JPG": "/one-year/static/media/Flirting.d5dbf50b.JPG",
+    "static/media/Greg and Plamen.29b0c6c8.JPG": "/one-year/static/media/Greg and Plamen.29b0c6c8.JPG",
+    "static/media/Hiking in Banff.865d4a01.JPG": "/one-year/static/media/Hiking in Banff.865d4a01.JPG",
+    "static/media/Sooke Trip.324fea6c.JPG": "/one-year/static/media/Sooke Trip.324fea6c.JPG",
+    "static/media/Sunny Art Facetime.48fb280e.PNG": "/one-year/static/media/Sunny Art Facetime.48fb280e.PNG",
+    "static/media/Taking Care of Flowers.42ff6e31.JPG": "/one-year/static/media/Taking Care of Flowers.42ff6e31.JPG",
+    "static/media/Visit Over Summer 2.c918ec8b.JPG": "/one-year/static/media/Visit Over Summer 2.c918ec8b.JPG",
+    "static/media/Visit Over Summer.5baa98fc.JPG": "/one-year/static/media/Visit Over Summer.5baa98fc.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c311d9c.js",
+    "static/js/2.ee327886.chunk.js",
+    "static/css/main.0f4f0e31.chunk.css",
+    "static/js/main.4a54b0ee.chunk.js"
+  ]
+}
