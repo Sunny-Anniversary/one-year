@@ -1,0 +1,9 @@
+.cubeApp {
+  text-align: center;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+}
+
+.no-bullets {
+  list-style-type: none;
+}
