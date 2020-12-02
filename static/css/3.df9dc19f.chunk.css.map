@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/cube/CubeApp.css"],"names":[],"mappings":"AAAA,SACE,iBAAkB,CAClB,iBAAkB,CAClB,kBACF,CAEA,YACE,oBACF","file":"3.df9dc19f.chunk.css","sourcesContent":[".cubeApp {\n  text-align: center;\n  margin-left: 12.5%;\n  margin-right: 12.5%;\n}\n\n.no-bullets {\n  list-style-type: none;\n}\n"]}
